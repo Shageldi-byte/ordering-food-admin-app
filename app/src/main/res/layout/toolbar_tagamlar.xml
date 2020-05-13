@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/app_color"
+    android:layout_height="110dp">
+    <ImageButton
+        android:id="@+id/yza"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_arrow_back_black_24dp"
+        />
+    <TextView
+        android:id="@+id/title_tagaml"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tagamlar"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        />
+    <EditText
+
+        android:id="@+id/gozleg"
+        android:background="@drawable/edit_bg"
+        android:padding="12dp"
+        android:textColorHint="@color/hint"
+        android:hint="Gözleg..."
+        android:textColor="#fff"
+        android:layout_below="@+id/title_tagaml"
+        android:layout_margin="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+</RelativeLayout>

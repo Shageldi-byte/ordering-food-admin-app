@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.titu.project">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".tagam_barada"></activity>
+        <activity android:name=".Tagamlary_Uytgetmek" />
+        <activity android:name=".add_tagam" />
+        <activity android:name=".Tagamlar" />
+        <activity android:name=".Kategoriyany_Uytgetmek" />
+        <activity android:name=".Tagam_Gornushler" />
+        <activity android:name=".add_kategoriya" />
+        <activity android:name=".Kategoriyalar_Ac" />
+        <activity android:name=".Tagam_Gornushleri" />
+        <activity android:name=".Naharlar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

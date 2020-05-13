@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "113697944832",
+    "firebase_url": "https://menin-appym.firebaseio.com",
+    "project_id": "menin-appym",
+    "storage_bucket": "menin-appym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113697944832:android:517f6924fd81e565f42fe5",
+        "android_client_info": {
+          "package_name": "com.titu.menin_appym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113697944832-rujmcdb6tgnp5lda0ugd795mnlg8pqtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDhhZLmnEGqkzyD5FOj_P2V6LR4AC7nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113697944832-rujmcdb6tgnp5lda0ugd795mnlg8pqtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113697944832:android:7988c06288967a8af42fe5",
+        "android_client_info": {
+          "package_name": "com.titu.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113697944832-rujmcdb6tgnp5lda0ugd795mnlg8pqtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDhhZLmnEGqkzyD5FOj_P2V6LR4AC7nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113697944832-rujmcdb6tgnp5lda0ugd795mnlg8pqtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
